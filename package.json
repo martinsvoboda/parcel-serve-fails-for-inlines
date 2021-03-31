@@ -1,0 +1,9 @@
+{
+    "name": "parcel-serve-fails-for-inlines",
+    "scripts": {
+        "serve": "parcel serve ./src/index.html"
+    },
+    "devDependencies": {
+        "parcel": "2.0.0-nightly.632"
+    }
+}
